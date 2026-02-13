@@ -1,4 +1,4 @@
-# Hey, I'm Paulo Vitor 👋
+# 'Sup. You're here.
 
 Brazilian software engineer. I care about building things the right way, which is different from building them perfectly, and I think that distinction matters more than most people give it credit for.
 
